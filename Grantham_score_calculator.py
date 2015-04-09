@@ -1,5 +1,5 @@
 ## This program takes input a SnpEff annotated vcf file and calcuates Grantham substitution scores for the missense variants.
-
+##Reference: AMINO ACID DIFFERENCE FORMULA TO HELP EXPLAIN PROTEIN EVOLUTION (1971), http://www.sciencemag.org/content/185/4154/862.long
 
 import math,sys,re,fileinput,os
 
